@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/animals.github.io/static/css/main.d9a742c4.chunk.css",
+    "main.js": "/animals.github.io/static/js/main.a815ec37.chunk.js",
+    "main.js.map": "/animals.github.io/static/js/main.a815ec37.chunk.js.map",
+    "runtime-main.js": "/animals.github.io/static/js/runtime-main.03435a2f.js",
+    "runtime-main.js.map": "/animals.github.io/static/js/runtime-main.03435a2f.js.map",
+    "static/js/2.6629cfc0.chunk.js": "/animals.github.io/static/js/2.6629cfc0.chunk.js",
+    "static/js/2.6629cfc0.chunk.js.map": "/animals.github.io/static/js/2.6629cfc0.chunk.js.map",
+    "static/js/3.5cc2d03f.chunk.js": "/animals.github.io/static/js/3.5cc2d03f.chunk.js",
+    "static/js/3.5cc2d03f.chunk.js.map": "/animals.github.io/static/js/3.5cc2d03f.chunk.js.map",
+    "index.html": "/animals.github.io/index.html",
+    "static/css/main.d9a742c4.chunk.css.map": "/animals.github.io/static/css/main.d9a742c4.chunk.css.map",
+    "static/js/2.6629cfc0.chunk.js.LICENSE.txt": "/animals.github.io/static/js/2.6629cfc0.chunk.js.LICENSE.txt",
+    "static/media/main.c71c1a22.png": "/animals.github.io/static/media/main.c71c1a22.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03435a2f.js",
+    "static/js/2.6629cfc0.chunk.js",
+    "static/css/main.d9a742c4.chunk.css",
+    "static/js/main.a815ec37.chunk.js"
+  ]
+}
