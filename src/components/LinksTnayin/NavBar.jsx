@@ -6,7 +6,7 @@ import "./Style.css"
 const Mylink =({name})=>{
 
     return (
-        <NavLink activeClassName="active" to = {`/animals.github.io/${name}`}>{name}</NavLink>
+        <NavLink activeClassName="active" to = {`/${name}`}>{name}</NavLink>
     )
 }
 class NavBar extends Component {

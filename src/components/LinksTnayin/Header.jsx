@@ -26,7 +26,7 @@ class Header extends Component {
     render() { 
         return ( 
                 <div style={style.header}>
-                   <NavLink to="/animals.github.io"><h1 style={style.text}>ANIMALS</h1></NavLink> 
+                   <NavLink to="/"><h1 style={style.text}>ANIMALS</h1></NavLink> 
                 </div>
          
          );
