@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/animals.github.io/static/css/main.d9a742c4.chunk.css",
-    "main.js": "/animals.github.io/static/js/main.94f0fd74.chunk.js",
-    "main.js.map": "/animals.github.io/static/js/main.94f0fd74.chunk.js.map",
+    "main.js": "/animals.github.io/static/js/main.a815ec37.chunk.js",
+    "main.js.map": "/animals.github.io/static/js/main.a815ec37.chunk.js.map",
     "runtime-main.js": "/animals.github.io/static/js/runtime-main.03435a2f.js",
     "runtime-main.js.map": "/animals.github.io/static/js/runtime-main.03435a2f.js.map",
     "static/js/2.6629cfc0.chunk.js": "/animals.github.io/static/js/2.6629cfc0.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.03435a2f.js",
     "static/js/2.6629cfc0.chunk.js",
     "static/css/main.d9a742c4.chunk.css",
-    "static/js/main.94f0fd74.chunk.js"
+    "static/js/main.a815ec37.chunk.js"
   ]
 }
