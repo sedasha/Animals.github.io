@@ -99,19 +99,19 @@ class Components extends Component {
         return ( 
             <div className ="container">
                     <Switch>
-                       <Route path="/" exact>
+                       <Route path="/animals.github.io" exact>
                            <Main />
                        </Route>
-                       <Route path= "/Mammals">
+                       <Route path= "/animals.github.io/Mammals">
                            <Animals animals={mammals} names= {names[0]}/>
                        </Route>
-                       <Route path= "/Birds">
+                       <Route path= "/animals.github.io/Birds">
                            <Animals animals={birds} names= {names[1]}/>
                        </Route>
-                       <Route path= "/Reptiles">
+                       <Route path= "/animals.github.io/Reptiles">
                             <Animals animals={reptiles} names= {names[2]}/>
                        </Route>
-                       <Route path= "/Amphibians">
+                       <Route path= "/animals.github.io/Amphibians">
                             <Animals animals={amphibians} names= {names[3]}/>
                        </Route>
 
